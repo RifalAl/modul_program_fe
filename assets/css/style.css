@@ -140,6 +140,10 @@
    background-color:white;
 }
 
+.namaBidang{
+   line-height: 1.5;
+}
+
 /*Responsive*/
 @media(max-width: 1024px){
 	.d-sm-none{
